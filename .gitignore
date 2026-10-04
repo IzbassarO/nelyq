@@ -1,0 +1,13 @@
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+coverage/
+
+# Secrets: only .env.example is ever committed.
+.env
+.env.*
+!.env.example
+
+.DS_Store
+*.log

@@ -1,0 +1,8 @@
+node_modules/
+.next/
+next-env.d.ts
+coverage/
+pnpm-lock.yaml
+
+# Imported research notes, kept as received rather than reformatted.
+docs/deep-research-report-4.md
