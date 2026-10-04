@@ -11,3 +11,7 @@ coverage/
 
 .DS_Store
 *.log
+
+# Internal project notes
+docs/plan.md
+docs/deep-research-report-*.md
